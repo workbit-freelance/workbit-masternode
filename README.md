@@ -4,7 +4,7 @@
 <a href="https://discord.gg/BHRrr8QQcr"><img src="https://discordapp.com/api/guilds/792476025724207114/embed.png" alt="Discord server" /></a>
                                                                                                                                                      
 
-[Website](http://workbit.org/) — [WORKBIT Github](https://github.com/workbit-freelance) - [Beta Android Mobile Wallet](Cooming soon...) — [Block Explorer](https://explorer.workbit.org:3001/) — [Forum](https://bitcointalk.org/index.php?topic=5029711.0) — [Telegram](https://t.me/j_ellington) )
+[Website](http://workbit.org/) — [WORKBIT Github](https://github.com/workbit-freelance) - [Beta Android Mobile Wallet](Cooming soon...) — [Block Explorer](http://explorer.workbit.org:3001/) — [Forum](https://bitcointalk.org/index.php?topic=5029711.0) — [Telegram](https://t.me/j_ellington) )
 
 # WORKBIT-Masternode Setup
 

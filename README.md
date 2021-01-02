@@ -1,7 +1,7 @@
 ![WORKBIT Logo](https://github.com/workbit-freelance/Workbit/raw/main/doc/logo.png)
 
 
-<a href="https://discord.gg/BHRrr8QQcr"><iframe src="https://discordapp.com/widget?id=792476025724207114&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> alt="Discord server" /></a>
+<a href="https://discord.gg/BHRrr8QQcr"><img src="https://discordapp.com/api/guilds/792476025724207114/embed.png" alt="Discord server" /></a>
                                                                                                                                                      
 
 [Website](http://workbit.org/) — [WORKBIT Github](https://github.com/workbit-freelance) - [Beta Android Mobile Wallet](Cooming soon...) — [Block Explorer](https://explorer.workbit.org:3001/) — [Forum](https://bitcointalk.org/index.php?topic=5029711.0) — [Telegram](https://t.me/j_ellington) )
